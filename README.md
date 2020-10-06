@@ -24,3 +24,6 @@ Dependent dataset:
 *demo2_convert_NASBench_to_dataset.py* convert NASBench to the dataset that is used for predicting accuracy of CNNs.
 
 *demo3_run_evaluate_dataset.py* train and evaluate the dataset generate by *demo2_convert_NASBench_to_dataset.py*.
+
+## Contact
+Please contact Ben Feng (488534569@qq.com) if you have any questions when using this code.
