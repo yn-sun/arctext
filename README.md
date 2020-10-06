@@ -1,5 +1,3 @@
-# ArcTextDemo
-
 ## Introduction
 
 This project shows how to use NASBench dataset to generate ArcText. Besides, this project give an example that ArcText can be used to predict CNN preformance. 
