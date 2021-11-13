@@ -23,5 +23,5 @@ Dependent dataset:
 
 *demo3_run_evaluate_dataset.py* train and evaluate the dataset generate by *demo2_convert_NASBench_to_dataset.py*.
 
-## Contact
-Please contact Ben Feng (488534569@qq.com) if you have any questions when using this code.
+## Acknowledgement
+Thanks very much for Ben Feng's valuable help in making these examples.
